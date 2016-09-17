@@ -1,1 +1,0 @@
-function controller(){function l(){alert("You clicked me!")}var o=this;o.clicked=l}angular.module("BoilerplateApp.About",[]).controller("AboutController",controller),angular.module("BoilerplateApp",["BoilerplateApp.About"]),angular.bootstrap(document,["BoilerplateApp"]);
