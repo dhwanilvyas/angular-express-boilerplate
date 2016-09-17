@@ -1,0 +1,6 @@
+extends ../base/layout
+
+block content
+  .padding-top-container(ng-controller='AboutController as vm')
+    h1 About
+    button.btn.btn-primary(ng-click='vm.clicked()') Click me
