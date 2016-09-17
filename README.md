@@ -1,13 +1,19 @@
-# Angular Express Boilerplate
+## Angular Express Boilerplate
+****
 
-## Features
+### Features
+1. Gulp
+2. SASS
+3. Linting
+4. Live reload (Coming soon!)
 
-1. Server Side Rendering
-2. Gulp, SASS, Linting, CI Integration
-
-## Installation
+### Installation
 
 1. git clone https://github.com/dhwanilvyas/angular-express-boilerplate.git
 2. cd angular-express-boilerplate && npm install && bower install && gulp
 3. npm start
 3. Open [http://localhost:3000](http://localhost:3000)
+
+### License
+****
+MIT
