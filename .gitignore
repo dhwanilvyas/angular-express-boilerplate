@@ -3,3 +3,7 @@
 node_modules
 bower_components
 npm-debug.log
+public/javascripts/vendor.js
+public/javascripts/app.js
+public/stylesheets/base.css
+public/stylesheets/base.css.map

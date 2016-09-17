@@ -10,6 +10,7 @@ module.exports = function(gulp, plugins) {
     gulp.src(appFiles)
       .pipe(plugins.ngAnnotate())
       .pipe(plugins.concat('app.js'))
+      .pipe(plugins.uglify())
       .pipe(gulp.dest('./public/javascripts/'));
 
   });
