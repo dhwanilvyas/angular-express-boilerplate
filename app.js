@@ -6,9 +6,6 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var axios = require('axios');
 
-// Set default API Base URL
-axios.defaults.baseURL = 'http://api.dinetym.com/';
-
 // App routes
 var home = require('./app/server/modules/home/home');
 var about = require('./app/server/modules/about/about');
