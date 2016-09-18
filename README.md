@@ -1,5 +1,4 @@
 ## Angular Express Boilerplate
-****
 
 ### Features
 1. Gulp
@@ -15,5 +14,5 @@
 3. Open [http://localhost:3000](http://localhost:3000)
 
 ### License
-****
+
 MIT
